@@ -10,7 +10,7 @@ e.g. prompt:  a cat on the back of a lion
 
 方位错误 (location insensitivity) 问题：e.g. prompt: a cat on top of a microwave
 
-![00127-2513660327](D:\Documents\Project\stable-diffusion-webui\outputs\txt2img-images\2023-06-28\00127-2513660327.png)
+![00127-2513660327](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00127-2513660327.png)
 
 remark: 所有图片均由[stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 生成。
 
@@ -50,18 +50,18 @@ cons: 主要展示了两个物体的位置控制生成，多个物体下效果�
 
 A cat catches a flying ball
 
-![00106-4151909253](D:\Documents\Project\stable-diffusion-webui\outputs\txt2img-images\2023-07-01\00106-4151909253.png)
+![00106-4151909253](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00106-4151909253.png)
 
 
 
-![00113-4151909260](D:\Documents\Project\stable-diffusion-webui\outputs\txt2img-images\2023-07-01\00113-4151909260.png)
+![00113-4151909260](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00113-4151909260.png)
 
 希望控制猫以什么样的角度扑向球，例如右斜上，左斜上等等
 
 A line of expedition caravans rode camels into the depths of the desert
 
-![00132-943955865](D:\Documents\Project\stable-diffusion-webui\outputs\txt2img-images\2023-07-01\00132-943955865.png)
+![00132-943955865](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00132-943955865.png)
 
-![00123-943955856](D:\Documents\Project\stable-diffusion-webui\outputs\txt2img-images\2023-07-01\00123-943955856.png)
+![00123-943955856](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00123-943955856.png)
 
 希望控制骆驼商队以什么样的角度进入沙漠
