@@ -46,6 +46,19 @@ cons: 主要展示了两个物体的位置控制生成，多个物体下效果�
 
 现有工作已经很好解决了diffusion model在多物体prompt下位置信息不敏感和遗漏物体等问题，但每个物体作为个体相对独立，对于物体间的交互没有很好的控制手段。Direct diffusion中提出limitation: 能否进行物体的orientation control。 通过2个物体间orientation的控制是达到交互动作生成的必要条件，而交互动作对于画面表现感，场景生成，故事性表现感都具有重要意义。
 
+i. 方向往往会影响到2个物体（或者多个物体）之间的交互： 
+
+e.g. mix-of-show中spatial prompt 有两个人牵手的信息，但模型产生的每个人物是独立的，没有牵手这样的交互动作呈现。从视觉效果上说，虽然可以做到控制生成每个人物的位置，但似乎像ps上去的效果，不同人物之间缺少交互。 
+
+ii. 方向控制也会影响到画面整体表现力 （storytelling ability）: 
+
+e.g. a horse in front of a castle 
+
+调整生成的马的身体的方向产生一种景深效果，而不是位置上看马在下面，城堡在上面 （a problem proposed by direct diffusion） 
+
+Direct diffusion: Ma, Wan-Duo Kurt, et al. "Directed diffusion: Direct control of object placement through attention guidance." arXiv preprint arXiv:2302.13153 (2023). 
+
+ 
 考虑普通的stable diffusion对于如下prompts的生成图：
 
 A cat catches a flying ball
