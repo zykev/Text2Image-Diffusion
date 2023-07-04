@@ -62,6 +62,6 @@ A line of expedition caravans rode camels into the depths of the desert
 
 ![00132-943955865](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00132-943955865.png)
 
-![00123-943955856](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00123-943955856.png)
+![00132-943955865](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00132-943955865.png)
 
 希望控制骆驼商队以什么样的角度进入沙漠
