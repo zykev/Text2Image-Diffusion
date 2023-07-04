@@ -6,7 +6,7 @@
 
 e.g. prompt:  a cat on the back of a lion
 
-![00101-2183694867](D:\Documents\Project\stable-diffusion-webui\outputs\txt2img-images\2023-06-28\00101-2183694867.png)
+![00101-2183694867](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00101-2183694867.png)
 
 方位错误 (location insensitivity) 问题：e.g. prompt: a cat on top of a microwave
 
