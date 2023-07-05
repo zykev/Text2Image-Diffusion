@@ -73,7 +73,7 @@ A cat catches a flying ball
 
 A line of expedition caravans rode camels into the depths of the desert
 
-![00132-943955865](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00132-943955865.png)
+![00120-943955853](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00120-943955853.png)
 
 ![00132-943955865](https://github.com/zykev/Text2Image-Diffusion/blob/main/proposal/images/images/00132-943955865.png)
 
